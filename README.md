@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - **Database:** MySQL
 - **Tools & Others:** Docker, Git, REST APIs, Firebase
 
-  
+ ## Facts about me: 
 - 👯 I’m looking to collaborate on innovative, problem-solving and creative products.
 - 🤔 My vision is to partner with world changers and work on projects that will shape the future.
 - 📫 How to reach me: emmanuelakinola255@gmail.com
