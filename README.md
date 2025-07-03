@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 -->
-## I am a Emmanuel Akinola, I am a Full-Stack Developer with experience with React, Next JS, TypeScript, Angular and PHP.
+## I am a Emmanuel Akinola, I am a Full-Stack Developer with experience with React, Next JS, TypeScript, Angular, NodeJS and PHP.
 ## I love building scalable and efficient web applications.
 
 
 ## 🛠 Tech Stack:
 - **Frontend:** React.js, Next.js, Angular, JavaScript, TypeScript TailwindCSS
-- **Backend:** PHP, Strapi
-- **Database:** MySQL
+- **Backend:** PHP, Strapi, NodeJS, Express
+- **Database:** MySQL, MongoDb
 - **Tools & Others:** Docker, Git, REST APIs, Firebase
 
  ## Facts about me: 
